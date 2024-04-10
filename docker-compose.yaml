@@ -1,0 +1,9 @@
+version: '3.7'
+
+services:
+  notebook:
+    image: kprzystalski/ml24
+    ports:
+      - "8888:8888"
+    volumes:
+      - ".:/home/kprzystalski/workshop/"
