@@ -26,3 +26,10 @@ Projects built during Machine Learning classes at Jagiellonian University
 ✅ 2. Use pydot do draw the tree for C4.5 example | [Commit](https://github.com/michalzuch/machine-learning/commit/00c4e0db5a5ce6f68cef74fec9243aab80393f44)  
 ✅ 3. Implement the minimum number of objects pruning method | [Commit](https://github.com/michalzuch/machine-learning/commit/056764dcbf2a931721ff214d47293a4f4bf26de5)  
 ✅ 4. Plot OC1 tree, but instead of elements id, print the feature id it was split by | [Commit](https://github.com/michalzuch/machine-learning/commit/58e3d95b039a1146fe83bd17e5c6dc459417c17f)
+
+---
+
+## [Ensemble](https://github.com/michalzuch/machine-learning/blob/main/Ensemble/05%20Exercises.ipynb)
+
+✅ 1. Find the best three classifiers in the stacking method using the classifiers from the scikit-learn package | [Commit](https://github.com/michalzuch/machine-learning/commit/e30323b793203346b5b102ff950b8f82e3f11c69)  
+✅ 2. Build the arc-x4 method | [Commit](https://github.com/michalzuch/machine-learning/commit/ec422b630aac094fa895ca3c70cabb647929911b)
