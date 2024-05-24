@@ -33,3 +33,10 @@ Projects built during Machine Learning classes at Jagiellonian University
 
 ✅ 1. Find the best three classifiers in the stacking method using the classifiers from the scikit-learn package | [Commit](https://github.com/michalzuch/machine-learning/commit/e30323b793203346b5b102ff950b8f82e3f11c69)  
 ✅ 2. Build the arc-x4 method | [Commit](https://github.com/michalzuch/machine-learning/commit/ec422b630aac094fa895ca3c70cabb647929911b)
+
+---
+
+## [SVM](https://github.com/michalzuch/machine-learning/blob/main/SVM/04%20Exercises.ipynb)
+
+✅ 1. Implement the polynomial kernel | [Commit](https://github.com/michalzuch/machine-learning/commit/934df4f211b840e8e46adeea97b81a275d1d0651)  
+❌ 2. Implement the multiclass C-SVM
