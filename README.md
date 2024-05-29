@@ -40,3 +40,13 @@ Projects built during Machine Learning classes at Jagiellonian University
 
 ✅ 1. Implement the polynomial kernel | [Commit](https://github.com/michalzuch/machine-learning/commit/934df4f211b840e8e46adeea97b81a275d1d0651)  
 ❌ 2. Implement the multiclass C-SVM
+
+---
+
+## [NLP](https://github.com/michalzuch/machine-learning/blob/main/NLP/06%20Exercises.ipynb)
+
+✅ 1. Build a custom tokenizer | [Commit](https://github.com/michalzuch/machine-learning/commit/4e1a5ae3d740b294837813843980a38a4efd17a5)  
+✅ 2. Get tags from speech | [Commit](https://github.com/michalzuch/machine-learning/commit/402a2544d5652d9b0f698a607d760f40f675aef1)  
+✅ 3. Get the nouns in the last 10 sentences from the speech | [Commit](https://github.com/michalzuch/machine-learning/commit/6af9f2d21522f080faf542a9145a38f48a38e09d)  
+✅ 4. Build your own Bag Of Words implementation | [Commit](https://github.com/michalzuch/machine-learning/commit/5fbcabf2fb0e24490c7ad15dc7d231c0061c2421)  
+✅ 5. Build a 5-gram model and clean up the results | [Commit](https://github.com/michalzuch/machine-learning/commit/11d0a2cd091375a5bea91f2290de0de17c84c1f7)
